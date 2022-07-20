@@ -18,3 +18,4 @@ Checklist:
 1. edit config
 2. make chair system
 3. struggle
+4. repeat
