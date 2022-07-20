@@ -9,7 +9,8 @@
 [![Packages](https://repology.org/badge/tiny-repos/i3.svg)](https://repology.org/metapackage/i3/versions)
 
 chairwm is a tiling window manager for X11 based on i3.
-now what is a chair tiling manager? (ctm)
+
+now what is a chair tiling manager™? (ctm™)
 a ctm™ is like your normal tiling system, but instead it tiles in the
 shape of a chair.
 now you may be asking, "thats not productive at all." 
